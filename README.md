@@ -7,9 +7,8 @@ This project analyzes customer ordering patterns and product performance followi
 ### Data Sources
 
 [Restaurant Orders]
-https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&search=restaurant%20orders
+| https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&search=restaurant%20orders
 
 ### Tools
 
-Excel - Data Cleaning | 
-PostgreSQL - Data Exploration
+- PostgreSQL - Data Cleaning & Data Exploration
