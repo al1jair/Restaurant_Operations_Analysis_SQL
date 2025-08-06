@@ -11,5 +11,5 @@ https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&se
 
 ### Tools
 
-Excel - Data Cleaning
+Excel - Data Cleaning | 
 PostgreSQL - Data Exploration
