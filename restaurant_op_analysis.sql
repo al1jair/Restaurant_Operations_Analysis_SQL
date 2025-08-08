@@ -1,4 +1,3 @@
-
 - View everything from the table
 
 SELECT *
